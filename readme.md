@@ -1,4 +1,7 @@
+<a href="https://colab.research.google.com/github/Briankim254/Malaria-Detection-with-TensorFlow/blob/main/Malaria_Detection_with_TensorFlow_.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 # Malaria Detection with TensorFlow
+
 This repository contains a Jupyter Notebook (Malaria_Detection.ipynb) that implements a machine learning model for Malaria detection using TensorFlow.
 
 ## What is Malaria?
